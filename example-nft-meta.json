@@ -1,0 +1,23 @@
+{
+   "name": "SuperNFT 0042",
+   "image": "ipfs://QmYKkXAVwcEaHax42qxm743kv6gug37uYiKEHXcxJTq2m4",
+   "description": [
+	   "Longform description of what" ,
+	   "the NFT is, what makes it" ,
+	   "special, etc" ,
+	   "This is a longofmr text. The string" ,
+	   "is split up in 64char tokens" ,
+	   "\nnew lines are encoded!"
+   ],
+   "properties": [
+      {
+         "key": "category",
+         "value": "awesome"
+      }
+   ],
+   "tags": [
+      "awesome" ,
+      "super" ,
+      "mint"
+   ]
+}
